@@ -11,7 +11,7 @@ This project automates the login process for the OpenMRS platform using Selenium
 
 
 ### Prerequisites
-#Python 3.x
+##Python 3.x
 sudo apt update
 sudo apt install -y python3 python3-pip
 sudo apt install -y python3-venv
