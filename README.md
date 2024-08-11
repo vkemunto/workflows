@@ -9,6 +9,12 @@ This project automates the login process for the OpenMRS platform using Selenium
 
 ## Instructions
 
+**###Prerequisites
+** -Selenium
+  -WebDriver
+  -Python
+  
+
 # Update package index
 sudo apt update
 
