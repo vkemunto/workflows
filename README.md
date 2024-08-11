@@ -17,7 +17,6 @@ This project automates the login process for the OpenMRS platform using Selenium
 
 ### Installation Steps
 
-#### Update Package Index
 ```bash
 sudo apt update
 # Update package index
@@ -47,6 +46,8 @@ chromedriver --version
 
 # Install Selenium
 pip install selenium
+
+
 
 # Deactivate the virtual environment
 deactivate
