@@ -51,8 +51,6 @@ pip install selenium
 # Deactivate the virtual environment
 deactivate
 
-###
-Clone the repository: (https://github.com/vkemunto/workflows/blob/main/interview.py)
 
 
 
