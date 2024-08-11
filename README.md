@@ -16,5 +16,4 @@ This project automates the login process for the OpenMRS platform using Selenium
 
 ### Setup
 1. **Clone the repository:**
-   (https://github.com/vkemunto/workflows)  
-
+(https://github.com/vkemunto/workflows/blob/main/interview.py)
