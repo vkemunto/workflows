@@ -26,6 +26,7 @@ sudo apt update
 sudo apt install -y python3 python3-pip
 
 # Install Python virtual environment package
+# You can choose to use a locally installed Python interpreter in environments like Visual Studio, Anaconda, or others.
 sudo apt install -y python3-venv
 
 # Create and set up a Python virtual environment
