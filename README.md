@@ -9,13 +9,13 @@ This project automates the login process for the OpenMRS platform using Selenium
 
 ## Instructions
 
-### Prerequisites
+### Prerequisites: The following prerequisites are essential for the automation
 
 - **Selenium**
 - **WebDriver**
 - **Python**
 
-### Installation Steps
+### Installation Steps for the above prerequisites
 
 ```bash
 sudo apt update
