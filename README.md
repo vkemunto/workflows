@@ -13,6 +13,7 @@ This project automates the login process for the OpenMRS platform using Selenium
 ### Prerequisites
 - Python 3.x
 - ChromeDriver
+- Selenium
 
 ### Setup
 1. **Clone the repository:**
