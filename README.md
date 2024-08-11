@@ -13,17 +13,17 @@ This project automates the login process for the OpenMRS platform using Selenium
 sudo apt update
 
 # Install Python 3 and pip
-sudo apt install -y python3 python3-pip
+  -sudo apt install -y python3 python3-pip
 
 # Install Python virtual environment package
-sudo apt install -y python3-venv
+  -sudo apt install -y python3-venv
 
 # Create and set up a Python virtual environment
-mkdir myproject
-cd myproject
-python3 -m venv venv
-source venv/bin/activate
-pip install --upgrade pip
+  -mkdir myproject
+  -cd myproject
+  -python3 -m venv venv
+  -source venv/bin/activate
+  -pip install --upgrade pip
 
 # Install ChromeDriver
   sudo apt install -y wget unzip
